@@ -1,0 +1,10 @@
+# DirectX Breakout
+ 
+A classic **Breakout-style arcade game** built using **DirectX and C++**. This project demonstrates real-time 2D rendering with 3D APIs, collision detection, input handling, and basic game logic. All game objects (paddle, ball, and bricks) are rendered using DirectX primitives.
+
+
+### Controls
+- Left Click: serve ball
+- A/D: Move Left and Right
+
+![alt-text](https://github.com/bkeller0909/DirectX-Chessboard/blob/main/Screenshot-112136.png)
